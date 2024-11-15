@@ -1,5 +1,8 @@
 # HopeConnect
 
+![Screenshot 2024-11-15 at 11 33 48 AM](https://github.com/user-attachments/assets/b80f17ae-121e-4f52-b10b-cd9c9f656b11)
+
+
 HopeConnect is a React application designed to help users access essential services in San Diego. The application provides quick access to resources such as food, shelter, medical help, job support, and more.
 
 ## Features
